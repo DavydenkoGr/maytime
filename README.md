@@ -103,8 +103,8 @@ App.restart("your.package.name");
 ### Authors:
 
 - *Davydenko Grigorii*
-  - GitLab: *@grigorii.davydenko*
+  - GitHub: *@DavydenkoGr*
   - Telegram: *@desertSmoke42*
 - *Vronskii Alexander*
-  - GitLab: *@aleksandr.vronskii*
+  - GitHub: *@asvronsky*
   - Telegram: *@asvronsky*
