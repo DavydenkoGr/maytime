@@ -22,7 +22,7 @@ That's why the project has such name - Maytime.
 Before all, clone Maytime in your workspace and run mvn install command:
 
 ```
-git clone https://gitlab.akhcheck.ru/aleksandr.vronskii/maytime.git
+git clone https://github.com/DavydenkoGr/maytime
 cd maytime
 mvn install
 ```
